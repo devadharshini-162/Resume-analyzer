@@ -29,8 +29,8 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/resume-intel-pro.git
-   cd resume-intel-pro
+   git clone https://github.com/devadharshini-162/Resume-analyzer.git
+   cd Resume-analyzer
    ```
 
 2. **Create a virtual environment**:
@@ -63,4 +63,4 @@ The system evaluates resumes based on:
 
 ---
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by [Deva Dharshini](https://github.com/devadharshini-162)
